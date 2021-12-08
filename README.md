@@ -7,3 +7,5 @@ pip install pytube
 
 Añade las url de las canciones de youtube en el fichero: canciones.txt y ejecuta el script. 
 Se creará una carpeta llamada "musica" con los ficheros mp3.
+
+Basado en https://github.com/JackCloudman/Youtube-music/blob/master/download.py
